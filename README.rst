@@ -2,6 +2,12 @@
 Kolla Ansible
 =============
 
+
+* Description: Provides Docker container images and Ansible playbooks to deploy OpenStack services. Highly efficient for containerized OpenStack environments.
+
+* Best for: Users who want a lightweight, scalable OpenStack with containerized services.
+
+
 .. image:: https://governance.openstack.org/tc/badges/kolla-ansible.svg
     :target: https://governance.openstack.org/tc/reference/tags/index.html
 
